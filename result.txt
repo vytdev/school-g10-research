@@ -1,0 +1,11 @@
+sample size:       235
+sim quiz items:    50
+RESULTS:
+pre-quiz mean:     27.01276595744681
+post-quiz mean:    33.761702127659575
+FOR PAIRED T-TEST AND COHEN'S D ANALYSIS:
+difference mean:   6.748936170212766
+diff std dev:      5.600742942949834
+ANALYSIS VALUES:
+t-statistic:       18.47241222104462
+cohen's d:         1.2050073068802893
