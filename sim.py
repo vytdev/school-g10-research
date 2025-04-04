@@ -1,6 +1,6 @@
 """
 Copyright (c) 2025  Vincent Yanzee J. Tan
-For my research paper. Fortunately, I'm good at coding, and math.
+For my research paper.
 """
 
 import random
